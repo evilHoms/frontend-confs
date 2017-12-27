@@ -10,22 +10,22 @@
 
 ## Москва
 
-### [Forntend Conf](http://frontendconf.ru/2018/)
+### [HolyJS](https://holyjs-moscow.ru/)
 
-28-29 мая
+10-11 декабря
 
 <details>
   <summary>Доклады</summary>
 
-  - Автоматизация фронтенда
-  - Тестирование фронтенда
-  - Быстродействие интерфейса и сети
-  - Оффлайн и кэширование
-  - Шаблонизаторы и препроцессоры
-  - адаптивная вёрстка
-  - Одностраничные приложения 
-  - Новые браузерные API
-  - JavaScript-фреймворки
+  - «The Post JavaScript Apocalypse», Douglas Crockford
+  - «Managing Asynchronicity with RQ», Douglas Crockford
+  - «New Adventures in Responsive Web Design», Виталий Фридман
+  - «Big Bang Redesign: Smashing Magazine’s 2017 Relaunch, a Case Study», Виталий Фридман
+  - «Better, faster, stronger — getting more from the web platform», Martin Splitt
+  - «/Reg(exp){2}lained/: Demystifying Regular Expressions», Lea Verou
+  - «Bending time with Schedulers and RxJS 5», Gerard Sans
+  - «HyperDB — a scalable key-value store», Mathias Buus Madsen
+  - «Testing serverless applications», Slobodan Stojanovic
 
 </details>
 
@@ -37,9 +37,8 @@
  -->
 ## Санкт-Петербург
 
-### [HolyJS 2018 Piter](https://holyjs-piter.ru/)
-
-19-20 мая
+<!--
+ -->
 
 ## Красноярск
 
@@ -47,8 +46,18 @@
  -->
 ## Минск
 
-<!--
- -->
+### [MinskCss Meetup](https://minskcss.timepad.ru/event/604963/)
+
+7 декабря, Минск
+
+<details>
+  <summary>Доклады</summary>
+  
+  - "Распечатай мне курсач. На CSS" Никита Дубко
+  - "Оценка фронтенда: перестаем тыкать пальцем в небо" Александра Шинкевич
+  - "Солидный фронтенд" Павел Богатырев
+
+</details>
 
 ### [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/)
 
@@ -64,10 +73,11 @@
 
 ## Харьков
 
-### [KharkivCss](http://kharkivcss.org/)
+### [Съесть Собаку](https://eatdog.com.ua/#poster)
 
-21 апреля
-
+21 декабря, Харьков
+<!--
+ -->
 ## Киев
 
 <!--
